@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_desc">Permite al botón «Dividir» del panel activar la pantalla dividida del sistema. No lee ni guarda nada de lo que hay en pantalla.</string>
+</resources>
